@@ -1,0 +1,6 @@
+torch
+sentencepiece
+sacrebleu
+matplotlib
+tqdm
+transformers
